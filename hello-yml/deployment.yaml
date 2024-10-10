@@ -18,7 +18,7 @@ spec:
         app: hello-world
     spec:
       containers:
-      - image: atortola/rancher-demo:0.2.0
+      - image: atortola/rancher-demo:latest
         name: rancher-demo
         ports:
         - containerPort: 8080
