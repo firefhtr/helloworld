@@ -25,6 +25,6 @@ spec:
         env:
             - name: COW_COLOR
               value: red
-            - name: PETS
+            - name: pets
               value: moby
         resources: {}
