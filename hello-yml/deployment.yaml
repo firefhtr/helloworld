@@ -26,5 +26,5 @@ spec:
             - name: COW_COLOR
               value: red
             - name: PETS
-              value: chameleons
+              value: moby
         resources: {}
