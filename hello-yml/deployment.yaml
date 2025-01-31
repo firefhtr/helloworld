@@ -24,5 +24,5 @@ spec:
         - containerPort: 8080
         env:
             - name: COW_COLOR
-              value: green
+              value: red
         resources: {}
