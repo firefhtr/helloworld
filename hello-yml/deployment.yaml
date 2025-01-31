@@ -25,4 +25,6 @@ spec:
         env:
             - name: COW_COLOR
               value: red
+            - name: PETS
+              value: chameleons
         resources: {}
